@@ -12,9 +12,21 @@ the same data; when the Extensions SDK arrived I moved onto it and kept both pat
 
 ---
 
+### Available for freelance work
+
+I take on contract work in the areas these repositories prove:
+
+- **MCP servers** that let Claude or other agents use your API, database or internal tools — dry-run before every write, verified after
+- **Audio software** — JUCE / C++ plugins (VST3, AU), Python DSP and loudness measurement (ITU-R BS.1770)
+- **DAW integration** — Ableton Live automation through the Extensions SDK, Remote Scripts and the `.als` format
+
+I work in writing and asynchronously; I do not take calls. To start, [open an issue here](https://github.com/senolsahan037-oss/senolsahan037-oss/issues/new?title=Work%20enquiry) with a few lines on what you need.
+
+---
+
 ### Start here
 
-**[Loom](https://github.com/senolsahan037-oss/loom)** — a local MCP server with 45
+**[Loom](https://github.com/senolsahan037-oss/loom)** — a local MCP server with 55
 tools for Ableton Live. It reads your own `.als` archive, measures what you
 actually do, and writes MIDI, device chains, automation and locators into a
 *running* Live session through an Ableton Extension, verifying every write by
